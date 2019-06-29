@@ -1,0 +1,7 @@
+void main
+{
+int a,b,c;
+Scanf("enter the values",&a,&b);
+c=a+b;
+print (&c);
+}
